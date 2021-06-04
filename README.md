@@ -43,7 +43,7 @@ A aplicação consiste estimular os usuários a se exercitarem, a terem uma vida
 - Next
 - JS-Cookie
 
-# 💡 Implantação em Produção
+## 💡 Implantação em Produção
 - Front-end: Vercel
 
 # 👨‍🔧 Como executar o projeto
